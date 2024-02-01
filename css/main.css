@@ -113,5 +113,9 @@ ul li span:hover{
     .todo {
         margin-left: 0px;
         margin-top: 20px;
+        width: 100%;
     } 
+    .heading h2{
+        margin-left: 80px;
+    }
 }
